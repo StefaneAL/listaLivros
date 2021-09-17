@@ -4,159 +4,209 @@
     "Data_de_publicação": "",
     "Autor": "George Orwell",
     "Categoria":"Ficção Politica"
-    
-   
 },
-
 {
     "Nome_da_obra": "Admirável Mundo Novo ",
     "descricao": "",
     "Data_de_publicação": "",
     "Autor": "Aldous Huxley",
     "Categoria":"Ficção Científica"
-    
 },
-
 {
     "Nome_da_obra": "Frankenstein",
     "descricao": "",
     "Data_de_publicação": "",
     "Autor": "Mary Shelley",
     "Categoria":"Ficção Científica"  
-    
 },
-
 {
     "Nome_da_obra": "Jogador Número 1",
     "descricao": "",
     "Data_de_publicação": "",
     "Autor": "Ernest Cline",
     "Categoria": "Ficção Científica"
-    
 },
-
 {
     "Nome_da_obra": "O mochileiro das galáxias – Livro 1",
     "descricao": "",
     "Data_de_publicação": "",
     "Autor": "Douglas Adams",
     "Categoria": "Ficção Científica"
-    
 },
-
 {
     "Nome_da_obra": "O restaurante no fim do universo - O mochileiro das galáxias – Livro 2",
     "descricao": "",
     "Data_de_publicação": "",
     "Autor": "Douglas Adams",
     "Categoria": "Ficção Científica"
-    
 },
-
 {
     "Nome_da_obra": "A vida, o universo e tudo mais - O mochileiro das galáxias – Livro 3",
     "descricao": "",
     "Data_de_publicação": "",
     "Autor": "Douglas Adams",
     "Categoria": "Ficção Científica"
-    
 },
-
 {
     "Nome_da_obra": "Até mais, e obrigado pelos peixes! - O mochileiro das galáxias – Livro 4",
     "descricao": "",
     "Data_de_publicação": "",
     "Autor": "Douglas Adams",
     "Categoria": "Ficção Científica"
-    
 },
-
 {
     "Nome_da_obra": "Praticamente inofensiva - O mochileiro das galáxias – Livro 5",
     "descricao": "",
     "Data_de_publicação": "",
     "Autor": "Douglas Adams",
     "Categoria": "Ficção Científica"
-    
 },
-
 {
     "Nome_da_obra": "E tem outra coisa - O mochileiro das galáxias – Livro 6",
     "descricao": "",
     "Data_de_publicação": "",
     "Autor": "Douglas Adams",
     "Categoria": "Ficção Científica"
-    
 },
-
 {
     "Nome_da_obra": "Island - A ilha",
     "descricao": "",
     "Data_de_publicação": "",
     "Autor": "Aldous Huxley",
     "Categoria": "Ficção Filosófica"
-    
 },
-
-{
-    "Nome_da_obra": "O Mundo de Sofia",
-    "descricao": "",
-    "Data_de_publicação": "",
-    "Autor": "Jostein Gaarder",
-    "Categoria": "Ficção Filosófica"
-    
-},
-
-{
-    "Nome_da_obra": "Assim Falou Zaratustra",
-    "descricao": "",
-    "Data_de_publicação": "",
-    "Autor": "Friedrich Nietzsche",
-    "Categoria": "Ficção Filosófica"
-    
-},
-
 {
     "Nome_da_obra": "O Principe",
     "descricao": "",
     "Data_de_publicação": "",
     "Autor": "Niccolò Machiavelli",
     "Categoria": "Ficção Filosófica"
-    
 },
-
 {
     "Nome_da_obra": "A invenção das mulheres",
     "descricao": "",
     "Data_de_publicação": "",
     "Autor": "Oyeronke Oyewumi",
     "Categoria": "Ciências Sociais"
-    
 },
-
 {
     "Nome_da_obra": "Almakia I: A vilashi e os Dragões ",
     "descricao": "",
     "Data_de_publicação": "",
     "Autor": "Lhaisa Andria",
     "Categoria": "Fantasia"
-    
 },
-
 {
     "Nome_da_obra": "Contos de Imaginação e Mistério ",
     "descricao": "",
     "Data_de_publicação": "",
     "Autor": "Edgar Allan Poe",
     "Categoria": "Terror"
-    
 },
-
 {
     "Nome_da_obra": "Uma história feita por mãos negras",
     "descricao": "",
     "Data_de_publicação": "",
     "Autor": "Beatriz Nascimento",
     "Categoria": "Ciências Sociais"
+},
+{
+    "nome_da_obra": "O Mundo de Sofia",
+    "descricao": "Às vésperas de seu aniversário de quinze anos, Sofia Amundsen começa a receber bilhetes e cartões postais bastante estranhos.",
+    "data_de_publicacao": "05/12/1995",
+    "autores": "Jostein Gaarder",
+    "categoria": "Filosofia"
+  },
+  {
+    "nome_da_obra": "Através do espelho",
+    "descricao": "Cecília passa quase o tempo todo em seu quarto, deitada na cama. Ela está muito doente, e sua doença não tem cura.. A garota escreve todos seus pensamentos em seu diário e conta com a companhia de um amigo que aparece em seu quarto do nada.",
+    "data_de_publicacao": "1993",
+    "autores": "Jostein Gaarder",
+    "categoria": "Filosofia"
+  },
+  {
+    "nome_da_obra": "O Dia do Curinga",
+    "descricao": "No meio da viagem de Hans e seu pai, um livro misterioso desencadeia uma narrativa paralela em que mitos gregos, maldições e cartas de baralho ganham vida e transformam a viagem a uma iniciação da busca do conhecimento - ou da filosofia.",
+    "data_de_publicacao": "1990",
+    "autores": "Jostein Gaarder",
+    "categoria": "Filosofia"
+  },
+  {
+    "nome_da_obra": "A garota das laranjas",
+    "descricao": "Este livro fala sobre um rapaz de 15 anos, chamado Georg Roed, que recebe uma carta escrita pelo seu pai escrita poucos dias antes da sua morte. A carta conta a história de como os seus pais se conheceram e episódios da infância de Georg.",
+    "data_de_publicacao": "2003",
+    "autores": "Jostein Gaarder",
+    "categoria": "Ficçao"
+  },
+  {
+    "nome_da_obra": "Anna e o planeta",
+    "descricao": "Anna começa a receber mensagens em seus sonhos: ela está observando o mundo através dos olhos de sua bisneta que vive em 2082, um mundo desolado. Quanto mais ela enxerga o futuro, mas ela quer agir para mudá-lo.",
+    "data_de_publicacao": "20/02/2017",
+    "autores": "Jostein Gaarder",
+    "categoria": "Ficçao"
+  },
+  {
+    "nome_da_obra": "A biblioteca mágica de Bibbi Bokken",
+    "descricao": "Os primos Nils e Berit se veem dispostos a investigar uma biblioteca mágica depois de conhecerem uma mulher misteriosa.",
+    "data_de_publicacao": "1993",
+    "autores": "Jostein Gaarder",
+    "categoria": "Romance"
+  },
+  {
+    "nome_da_obra": "Além do Bem e do Mal",
+    "descricao": "Quase todos os temas de sua filosofia madura estão presentes nesse livro: o perspectivismo, a vontade de poder e suas ramificações, a crítica da moralidade, a psicologia da religião e a definição de um tipo de homem nobre. ",
+    "data_de_publicacao": "1886",
+    "autores": "Friedrich Nietzsche",
+    "categoria": "Filosofia"
+  },
+  {
+    "nome_da_obra": "Genealogia da moral",
+    "descricao": "Complemento de Além do bem e do mal, este livro é composto de três ensaios que, sob ângulos diversos, tratam da origem dos nossos conceitos morais. ",
+    "data_de_publicacao": "1887",
+    "autores": "Friedrich Nietzsche",
+    "categoria": "Filosofia"
+  },
+  {
+    "nome_da_obra": "Crepúsculo dos ídolos",
+    "descricao": "Trata-se de uma síntese e introdução a toda a sua obra, e ao mesmo tempo uma declaração de guerra. É com espírito guerreiro que ele se lança contra os ídolos, as ilusões antigas e novas do Ocidente. ",
+    "data_de_publicacao": "1889",
+    "autores": "Friedrich Nietzsche",
+    "categoria": "Filosofia"
+  },
+  {
+    "nome_da_obra": "A gaia ciência",
+    "descricao": "A gaia ciência traz algumas das discussões mais originais de Friedrich Nietzsche a respeito de arte, moral, história, conhecimento, ilusão e verdade. ",
+    "data_de_publicacao": "1882",
+    "autores": "Friedrich Nietzsche",
+    "categoria": "Filosofia"
+  },
+  {
+    "nome_da_obra": "Assim falou Zaratustra: Um livro para todos e para ninguém",
+    "descricao": "A filosofia, religião e literatura se juntam de maneira complexa e atraente. O leitor reconhecerá, na linguagem metafórica e alegórica, muitas das ideias que seriam desenvolvidas em prosa reflexiva nas outras obras. ",
+    "data_de_publicacao": "1883",
+    "autores": "Friedrich Nietzsche",
+    "categoria": "Filosofia"
+  },
+  {
+    "nome_da_obra": "O anticristo",
+    "descricao": "Em quase todos os seus livros Nietzsche discute a religião e a moral cristãs, mas é em O Anticristo que essa discussão alcança a forma mais desinibida e polêmica. Ele faz uma reinterpretação do cristianismo inicial. ",
+    "data_de_publicacao": "1888",
+    "autores": "Friedrich Nietzsche",
+    "categoria": "Filosofia"
+  },
+  {
+    "nome_da_obra": "Ecce Homo",
+    "descricao": "Em outubro de 1888, ao completar 44 anos de idade, Friedrich Nietzsche decidiu fazer um balanço de sua vida. ",
+    "data_de_publicacao": "1908",
+    "autores": "Friedrich Nietzsche",
+    "categoria": "Filosofia"
+  },
+  {
+    "nome_da_obra": "Humano, Demasiado Humano",
+    "descricao": "Além de dedicar esta obra ao Iluminista Voltaire, Nietzsche define Humano, Demasiado Humano, como um livro melancólico corajoso.",
+    "data_de_publicacao": "1878",
+    "autores": "Friedrich Nietzsche",
+    "categoria": "Filosofia"
+
     
 }]
